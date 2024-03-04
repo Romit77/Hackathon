@@ -14,25 +14,25 @@ export const projects = [
     title: "PYQ Analysis",
     description:
       "A technology company that builds economic infrastructure for the internet.",
-    link: "http://192.168.111.105:8501",
+    link: "http://localhost:8501/PYQ_Analysis",
   },
   {
     title: "Smart Notes Analysis",
     description:
       "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
-    link: "https://netflix.com",
+    link: "http://localhost:8501/Smart_Note_Analysis",
   },
   {
     title: "Interactive Quizzes",
     description:
       "A multinational technology company that specializes in Internet-related services and products.",
-    link: "https://google.com",
+    link: "http://localhost:8501/",
   },
   {
     title: "Maths Solver",
     description:
       "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
-    link: "https://meta.com",
+    link: "https://www.mathway.com/Calculus",
   },
   {
     title: "Handwriting-to-Text",
