@@ -30,19 +30,19 @@ export const projects = [
   {
     title: "Maths Solver",
     description:
-      "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
+      "Takes an image as input and returns the solution to the mathematical problem in the image.",
     link: "https://www.mathway.com/Calculus",
   },
   {
     title: "Handwriting-to-Text",
     description:
-      "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+      "Convert your handwritten notes into digital text and analyze them for better understanding and retention.",
     link: "http://localhost:8501/Smart_Note_Analysis",
   },
   {
     title: "Leetcode Solutions",
     description:
-      "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
+      "A collection of solutions to LeetCode problems in C++, Python and Java.",
     link: "https://walkccc.me/LeetCode/",
   },
 ];
