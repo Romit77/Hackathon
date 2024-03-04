@@ -13,19 +13,18 @@ export const projects = [
   {
     title: "Smart Notes Analysis",
     description:
-      "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
+      "Convert your handwritten notes into digital text and analyze them for better understanding and retention.",
     link: "http://localhost:8501/Smart_Note_Analysis",
   },
   {
     title: "Interactive Quizzes",
     description:
-      "A multinational technology company that specializes in Internet-related services and products.",
+      "Generating quizzes from your notes and analyzing your performance.",
     link: "http://localhost:8501/",
   },
   {
     title: "PYQ Analysis",
-    description:
-      "A technology company that builds economic infrastructure for the internet.",
+    description: "Generates a list of questions based on previous year data ",
     link: "http://localhost:8501/PYQ_Analysis",
   },
   {
