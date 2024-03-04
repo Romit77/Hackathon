@@ -11,13 +11,13 @@ const instructors = [
   },
   {
     title: "2",
-    link: "www.google.com",
+    link: "https://leetcode.com/studyplan/top-interview-150/",
     thumbnail:
       "https://images.unsplash.com/photo-1619410283995-43d9134e7656?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     title: "3",
-    link: "www.google.com",
+    link: "https://vtop.vitbhopal.ac.in/vtop/open/page",
     thumbnail:
       "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
@@ -47,14 +47,14 @@ const instructors = [
   },
   {
     title: "8",
-    link: "www.google.com",
+    link: "https://www.hackerrank.com/",
     thumbnail:
       "https://images.unsplash.com/photo-1687603921109-46401b201195?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 
   {
     title: "9",
-    link: "www.google.com",
+    link: "https://www.geeksforgeeks.org/ ",
     thumbnail:
       "https://images.unsplash.com/photo-1579820010410-c10411aaaa88?q=80&w=1797&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D ",
   },
