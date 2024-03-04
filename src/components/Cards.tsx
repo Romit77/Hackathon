@@ -10,46 +10,40 @@ const testimonials = [
     title: "22BCE10600",
   },
   {
-    quote:
-      "Innovative Design Hub helped us redefine our brand identity. Their designs were not only visually stunning but also perfectly captured the essence of our company. Highly recommend their services!",
-    name: "Michael Chang",
+    quote: "Points : 64",
+    name: "Rakshit Gupta",
+    title: "22BCE11548",
+  },
+  {
+    quote: "Points : 99",
+    name: "Ananya Agarwal",
+    title: "20BCE10689",
+  },
+  {
+    quote: "Points : 94",
+    name: "Romit Dey",
+    title: "22BCE11359",
+  },
+  {
+    quote: "Points : 72",
+    name: "Kanishk Shukla",
+    title: "22BCE11658",
+  },
+  {
+    quote: "Points : 67",
+    name: "Anmol Srivastava",
+    title: "21BCE11130",
+  },
+  {
+    quote: "Points : 64",
+    name: "Rakshit Gupta",
     title: "CEO",
-  },
-  {
-    quote:
-      "Visionary Studios transformed our vision into reality. Their expertise in immersive technologies allowed us to create an unforgettable experience for our audience. We're grateful for their dedication and creativity.",
-    name: "Sarah Rodriguez",
-    title: "Event Coordinator",
-  },
-  {
-    quote:
-      "Artistry Collective brought our story to life in ways we never thought possible. Their team's passion for their craft is evident in every detail. We couldn't be happier with the outcome!",
-    name: "David Thompson",
-    title: "Creative Director",
-  },
-  {
-    quote:
-      "Studio Xpression's work speaks for itself - bold, innovative, and captivating. They took our ideas and elevated them to a whole new level. It was a pleasure collaborating with such talented individuals.",
-    name: "Jessica Patel",
-    title: "Product Manager",
-  },
-  {
-    quote:
-      "Creative Minds Studio exceeded our expectations at every turn. Their ability to translate our vision into reality was truly remarkable. We look forward to working with them on future projects.",
-    name: "Alexandre Dubois",
-    title: "Art Director",
-  },
-  {
-    quote:
-      "Innovative Design Hub's attention to detail is unmatched. They listened to our needs and delivered designs that perfectly aligned with our brand identity. We couldn't be happier with the results!",
-    name: "Sophia Lee",
-    title: "Brand Manager",
   },
 ];
 
 function Cards() {
   return (
-    <div className="h-[30rem] w-full dark:bg-black bg-white  dark:bg-grid-white/[0.2] bg-grid-black/[0.2] relative  items-center justify-center">
+    <div className="h-[20rem] w-full dark:bg-black bg-white  dark:bg-grid-white/[0.2] bg-grid-black/[0.2] relative  items-center justify-center">
       <div className="absolute pointer-events-none inset-0 flex items-center justify-center dark:bg-black bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"></div>
       <h2 className="text-3xl font-bold text-center mb-8 z-10 p-5">
         Leaderboard
