@@ -38,13 +38,13 @@ export const projects = [
     title: "Handwriting-to-Text",
     description:
       "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-    link: "https://amazon.com",
+    link: "http://localhost:8501/Smart_Note_Analysis",
   },
   {
     title: "Leetcode Solutions",
     description:
       "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-    link: "https://microsoft.com",
+    link: "https://walkccc.me/LeetCode/",
   },
 ];
 
