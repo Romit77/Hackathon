@@ -11,12 +11,6 @@ export function CardHoverEffectDemo() {
 }
 export const projects = [
   {
-    title: "PYQ Analysis",
-    description:
-      "A technology company that builds economic infrastructure for the internet.",
-    link: "http://localhost:8501/PYQ_Analysis",
-  },
-  {
     title: "Smart Notes Analysis",
     description:
       "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
@@ -27,6 +21,12 @@ export const projects = [
     description:
       "A multinational technology company that specializes in Internet-related services and products.",
     link: "http://localhost:8501/",
+  },
+  {
+    title: "PYQ Analysis",
+    description:
+      "A technology company that builds economic infrastructure for the internet.",
+    link: "http://localhost:8501/PYQ_Analysis",
   },
   {
     title: "Maths Solver",
