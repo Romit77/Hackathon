@@ -35,8 +35,7 @@ export const projects = [
   },
   {
     title: "Handwriting-to-Text",
-    description:
-      "Convert your handwritten notes into digital text and analyze them for better understanding and retention.",
+    description: "Convert your handwritten notes into digital text .",
     link: "http://localhost:8501/Smart_Note_Analysis",
   },
   {
