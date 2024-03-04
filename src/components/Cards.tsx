@@ -5,10 +5,9 @@ import { InfiniteMovingCards } from "@/components/ui/infinite-moving-cards";
 
 const testimonials = [
   {
-    quote:
-      "Working with Creative Minds Studio was an absolute pleasure. Their team's creativity and professionalism exceeded our expectations, and the final result was beyond anything we could have imagined.",
-    name: "Emily Johnson",
-    title: "Marketing Director",
+    quote: "Points : 88",
+    name: "Aditya Kumar",
+    title: "22BCE10600",
   },
   {
     quote:

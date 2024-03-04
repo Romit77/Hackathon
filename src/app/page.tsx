@@ -1,3 +1,4 @@
+import MeteorsDemo from "@/components/Buttons";
 import Cards from "@/components/Cards";
 import LampDemo from "@/components/Header";
 import HeroSection from "@/components/Hero";
@@ -10,6 +11,7 @@ function page() {
       <LampDemo />
       <HeroSection />
       <Cards />
+      <MeteorsDemo />
     </main>
   );
 }
